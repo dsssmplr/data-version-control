@@ -1,5 +1,8 @@
 [core]
     remote = remote_storage
     analytics = false
+[cache]
+    dir = E:/C
+    type = copy
 ['remote "remote_storage"']
     url = D:/DVC_remote
