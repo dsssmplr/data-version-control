@@ -1,5 +1,5 @@
 [core]
-    analytics = false
     remote = remote_storage
+    analytics = false
 ['remote "remote_storage"']
     url = D:/DVC_remote
